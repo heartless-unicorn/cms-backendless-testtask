@@ -1,0 +1,13 @@
+.App {
+  background-color: #8ba3b8;
+  height: 100vh;
+  padding: 20px;
+  text-align: center;
+}
+.App table {
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 18px;
+  color: white;
+  margin-top: 15px;
+}

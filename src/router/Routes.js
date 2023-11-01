@@ -1,5 +1,5 @@
 import * as React from "react";
-import { useContext, useEffect } from "react";
+import { useContext } from "react";
 import { Route, Routes as MainRoutes, Navigate } from "react-router-dom";
 import { DataContext } from "../helpers";
 
